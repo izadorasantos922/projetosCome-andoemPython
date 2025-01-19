@@ -28,10 +28,18 @@ while gameison:
 
     if snake.head.distance(food) < 15:
         food.refresh()
+        snake.extend()
         scoreboard.increase_score()
     if snake.head.xcor() < -280 or snake.head.xcor() > 280 or snake.head.ycor() > 280 or snake.head.xcor() < -280:
         gameison = False
         scoreboard.gameover()
+    
+    for part in snake.segments:
+        if part == snake.head:
+            pass
+        elif snake.head.distance(part) < 18:
+            gameison = False
+            scoreboard.gameover()
     
 
 
