@@ -9,8 +9,7 @@ load_dotenv()
 MY_EMAIL = os.getenv("EMAIL")
 MY_PASSWORD = os.getenv("PASSWORD")
 
-random_num = random.randint(1, 3)
-random_letter = f"letter_{random_num}.txt"
+random_letter = f"letter_1.txt"
 
 now = dt.datetime.now()
 month_day = (now.month, now.day)
