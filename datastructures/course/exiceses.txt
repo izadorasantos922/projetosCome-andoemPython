@@ -1,0 +1,37 @@
+leetcode:
+https://leetcode.com/problems/lru-cache/description/
+https://leetcode.com/problems/last-stone-weight-ii/description/
+
+arrays:
+https://leetcode.com/problems/contains-duplicate-ii/description/?envType=problem-list-v2&envId=sliding-window
+https://leetcode.com/problems/two-sum/description/
+
+binarytree:
+Usando qualquer IDE, implemente uma binary tree
+https://leetcode.com/problems/same-tree/description/?envType=problem-list-v2&envId=binary-tree
+https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=problem-list-v2&envId=binary-tree
+
+graph:
+https://leetcode.com/problems/clone-graph/
+https://leetcode.com/problems/network-delay-time/description/?envType=problem-list-v2&envId=shortest-path
+https://leetcode.com/problems/number-of-islands/
+
+heaps:
+Utilizando qualquer IDE, implemente um min_heap
+https://leetcode.com/problems/kth-largest-element-in-a-stream/
+https://leetcode.com/problems/merge-k-sorted-lists/description/
+https://leetcode.com/problems/top-k-frequent-elements/description/
+
+linkedlists:
+https://leetcode.com/problems/reverse-linked-list/description/
+https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=problem-list-v2&envId=linked-list
+https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=linked-list
+
+sort:
+https://leetcode.com/problems/number-of-1-bits/description/?envType=problem-list-v2&envId=bit-manipulation
+https://leetcode.com/problems/counting-bits/description/?envType=problem-list-v2&envId=bit-manipulation
+
+stack:
+Implemente uma stack utilizando qualquer IDE
+https://leetcode.com/problems/daily-temperatures/description/
+https://leetcode.com/problems/min-stack/description/?envType=problem-list-v2&envId=stack
